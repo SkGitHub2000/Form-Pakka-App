@@ -1,0 +1,6 @@
+{
+  "name": "FormPakka",
+  "description": "Exam photo, signature & document resizer with exact pixels & KB limits for IBPS, SBI, SSC, UPSC, NEET, JEE, etc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
